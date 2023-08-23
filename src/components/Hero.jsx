@@ -24,8 +24,7 @@ const Hero = () => {
         <span className='orange_gradient '>A click of a button</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with Summarize, just paste the link down below to Summarize the Article!
       </h2>
     </header>
   );
